@@ -7,7 +7,8 @@ This Python code is a simple file upload and search application that uses the bo
 - boto3 library
 
 ## Installation
-To install the required libraries, run the following commands in your terminal:
+1. You can download the .exe file by [**clicking here**](https://github.com/akshyat02/aws-file-system/blob/main/amazon-file-system).
+2. To install the required libraries, run the following commands in your terminal:
 ```bash
 pip install tkinter
 pip install boto3
