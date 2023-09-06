@@ -1,6 +1,5 @@
 # README
 This Python code is a simple file upload and search application that uses the boto3 library to interact with Amazon S3.
-## You can download the .exe file by [**clicking here**](https://github.com/akshyat02/aws-file-system/blob/main/amazon-file-system).
 ## Requirements
 - Python 3.8 or higher
 - tkinter library
